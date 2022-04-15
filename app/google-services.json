@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1073267484417",
+    "project_id": "malachite-helix",
+    "storage_bucket": "malachite-helix.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073267484417:android:156a598d4669f0f5931d00",
+        "android_client_info": {
+          "package_name": "com.habby.punbal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073267484417-svi0fi8hsf7uuanspk06ipvs90in3fg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhGZRaPBcuD5n3VcYKjTuSMC_mVHWTkvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073267484417-svi0fi8hsf7uuanspk06ipvs90in3fg6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
